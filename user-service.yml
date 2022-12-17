@@ -9,4 +9,4 @@ token:
   expiration_time: 464000000
   secret: MY_SECRET_20221215
 gateway:
-  ip: 127.0.0.1
+  ip: 172.18.0.5
