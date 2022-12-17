@@ -3,4 +3,4 @@ token:
   secret: default_config_token_#7
 
 gateway:
-  ip: 172.30.1.94
+  ip: 127.0.0.1
