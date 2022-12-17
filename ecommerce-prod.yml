@@ -3,4 +3,4 @@ token:
   secret: my_toekn_prod
 
 gateway:
-  ip: 172.30.1.46
+  ip: 172.30.1.94
